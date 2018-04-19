@@ -7,6 +7,7 @@
    [Summer Wind - Frank Sinatra](http://music.163.com/#/song?id=509781605)  
    
 ## 20180420
+   su - switch user  
    孤帆远影碧空尽 唯见长江天际流  
      
    生年不满百  
