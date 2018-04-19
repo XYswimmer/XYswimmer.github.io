@@ -3,6 +3,8 @@
 ## _music_
    [Hungry Heart - Bruce Springsteen](http://music.163.com/#/song?id=26367104)  
    [Love Stinks - J. Geils Band](http://music.163.com/#/song?id=19193363)  
+   [My Way - Frank Sinatra](http://music.163.com/#/song?id=22174742)  
+   [Summer Wind - Frank Sinatra](http://music.163.com/#/song?id=509781605)  
    
 ## 20180420
    孤帆远影碧空尽 唯见长江天际流  
