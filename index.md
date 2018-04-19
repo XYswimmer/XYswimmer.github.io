@@ -1,7 +1,8 @@
 # _7727_
 
 ## _music_
-   [Hungry Heart - Bruce Springsteen](http://music.163.com/#/song?id=26367104)
+   [Hungry Heart - Bruce Springsteen](http://music.163.com/#/song?id=26367104) 
+   [Love Stinks - J. Geils Band](http://music.163.com/#/song?id=19193363) 
    
 ## 20180420 
    `孤帆远影碧空尽 唯见长江天际流` 
