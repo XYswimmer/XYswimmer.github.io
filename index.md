@@ -10,7 +10,7 @@
 ## 20180421
 
    connection  
-   vim Linux对文件进行操作  
+   vim Linux对文件进行操作 i :w :q  
    
 ## 20180420
 
